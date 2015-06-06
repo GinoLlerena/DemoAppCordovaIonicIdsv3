@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Android'">
+    <DebuggerFlavor>RippleNexus</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferenceCachePath>C:\Users\GINO\AppData\Local\Temp\Sistemas.Mobile_refcache</ReferenceCachePath>
+    <AutoRefresh>true</AutoRefresh>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+</Project>
